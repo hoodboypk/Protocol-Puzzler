@@ -84,7 +84,7 @@ public class QuizManager : MonoBehaviour
         }
         else
         {
-            Debug.Log("Out of Questions");
+            //Debug.Log("Out of Questions");
             GameOver();
         }
 
